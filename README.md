@@ -1,4 +1,5 @@
 ## Olá, me chamo Gabriel!
+# Hello
  <div>
 	
 
@@ -18,7 +19,7 @@
 ##
 
 
-  <img align="center" alt="JiJi" src="https://cdn.discordapp.com/attachments/714989598148919419/842852639703826432/7257baf1139690142d693813e439678e.gif">
+  <img align="center" alt="JiJi" src="https://cdn.discordapp.com/attachments/714989598148919419/874413451160727562/jiji.gif">
   
 </div>
   
