@@ -1,6 +1,5 @@
 ## Olá, me chamo Gabriel!
  <div>
-  <a href="https://github.com/rafaballerini">
 	
 
  - Hi, I am an IMD student.⭐️
@@ -16,6 +15,8 @@
 
 </div>
 
+##
+
 
   <img align="center" alt="JiJi" src="https://cdn.discordapp.com/attachments/714989598148919419/842852639703826432/7257baf1139690142d693813e439678e.gif">
   
@@ -24,8 +25,7 @@
   ##
   
   <div>
-  <a href = "mailto: "><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-vitor-350964117" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+	</a>
 </div>
 
